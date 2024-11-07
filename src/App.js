@@ -11,7 +11,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          초기 설계
+          초기 설계~
         </a>
       </header>
     </div>
